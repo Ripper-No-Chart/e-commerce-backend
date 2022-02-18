@@ -1,5 +1,5 @@
-# LikeVendor Backend
-## _LikeVendor backend_
+# E-Commerce Backend
+## _E-Commerce Backend_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
